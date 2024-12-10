@@ -1,0 +1,7 @@
+flight control
+pitchaxis	pitch axis	3	SLIDER	Eje Y	0	1.0	0.0
+yawaxis	yaw axis	3	SLIDER	Eje X	0	1.0	0.0
+rollaxis	roll axis	3	SLIDER	Rotación Z	0	1.0	0.0
+throttleaxis	throttle axis	3	SLIDER	Control deslizante	0	-1.0	0.0
+gatillo	gatillo	1	BUTTON	Botón 0	0	0.0	0.0
+pulgar	pulgar	1	BUTTON	Botón 1	0	0.0	0.0

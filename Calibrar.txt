@@ -1,0 +1,6 @@
+Throttle to max (100 en el monitor serial)
+conectar batería
+piripipi pi pi
+throttle to min (0 en el monitor serial)
+muchos pi y un piiiiiii
+exit calibration mode (111 en el monitor serial)
